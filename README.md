@@ -1,6 +1,6 @@
 # 🏠 House Price Prediction using Linear Regression
 
-[![Open In Colab](https://colab.research.google.com/github/Sushant7821/The_project/blob/main/HOUSE_PRICE_PREDICTING_PROJECT.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/Sushant7821/The_project/blob/main/HOUSE_PRICE_PREDICTING_PROJECT.ipynb])
 
 
 > 🌐 View in NBViewer (if GitHub preview doesn’t work):  
