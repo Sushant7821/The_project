@@ -1,9 +1,10 @@
 # 🏠 House Price Prediction using Linear Regression
 
-[![Open In Colab](https://colab.research.google.com/drive/1dXpimm5BiEge4e0RoWDTeL0QWltIezMJ#scrollTo=vXhuMR5TWtCC&uniqifier=1)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/house-price-prediction/blob/main/House_Price_Prediction.ipynb)
+
 
 > 🌐 View in NBViewer (if GitHub preview doesn’t work):  
-https://nbviewer.org/github/your-username/house-price-prediction/blob/main/House_Price_Prediction.ipynb
+https://nbviewer.org/github/Sushant7821/house-price-prediction/blob/main/House_Price_Prediction.ipynb
 
 ---
 
